@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/VaporDusk/single-price-grid-component-master]
-- Live Site URL: [https://github.com/VaporDusk/single-price-grid-component-master/]
+- Live Site URL: [https://vapordusk.github.io/single-price-grid-component-master/]
 
 ## My process
 
